@@ -1,4 +1,4 @@
-Password Generator
+Password Generator:
 This Python script generates secure passwords with a mix of uppercase letters, lowercase letters, special characters, and numbers. The generator ensures that each password meets common security standards by including at least one character from each category.
 Features
 Customizable Length
